@@ -1,13 +1,15 @@
 # Infos für die WRO 2019
 
 ## Github
-
 https://github.com/brickcentric
 
 ### Software
 https://desktop.github.com
-* Downloaden, installieren
-* Starten und mit seinem Github Account anmelden
-* Das Repository seines Teams auf dem Rechner einmal auschecken.
-* Ein ein leeres Testprogramm erstellen und in dem Verzewichniss speichern.
-* Danach Verzeichniss mit dem Github Desktop , commiten und pushen.
+
+## WRO
+* Seite der WRO: https://www.worldrobotolympiad.de/
+* Aufgaben 2019: https://www.worldrobotolympiad.de/saison-2019/aufgaben
+* Zeitpan: https://www.worldrobotolympiad.de/saison-2019/zeitplan
+* Köln 18.05.2019: https://www.worldrobotolympiad.de/saison-2019/wettbewerbe/147/koeln
+
+
