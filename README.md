@@ -19,6 +19,7 @@ Markdown Language ist eine einfache Dokumentationssprache, falls ihr in Github w
 
 ## Lego Mindstorm
 ### Downloads
+[Mindstorm Teileliste](https://le-www-live-s.legocdn.com/sc/media/files/element-surveys/ev3/45544_element_survey-e40199b2a68b9ce583e2ad99844ce865.pdf?la=de-de)
 [Software für den Mindstorm](https://www.lego.com/de-de/mindstorms/downloads)
 
 
